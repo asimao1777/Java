@@ -17,5 +17,4 @@ public class trycatch {
             System.exit(0);
         }
     }
-    input.close();
 }

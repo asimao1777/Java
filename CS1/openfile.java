@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 
 public class openfile {
     public static void main(String args[]) {
-        try(Scanner integer = new Scanner(new File("../Java/CS1/integers.txt"))){
+        try(Scanner integer = new Scanner(new File("integers.txt"))){
             while(integer.hasNextLine()){
                 int x = integer.nextInt();
                 System.out.println(x);

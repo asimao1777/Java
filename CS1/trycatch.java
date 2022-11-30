@@ -1,3 +1,4 @@
+package CS1;
 import java.util.*;
 
 
@@ -18,3 +19,4 @@ public class trycatch {
         }
     }
 }
+ 
